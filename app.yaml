@@ -7,7 +7,7 @@ runtime_config:
 
 #[START env]
 env_variables:
-    PUBSUB_TOPIC: LoanStats
+    PUBSUB_TOPIC: testtopic1
     # This token is used to verify that requests originate from your
     # application. It can be any sufficiently random string.
     PUBSUB_VERIFICATION_TOKEN: 1234abc
